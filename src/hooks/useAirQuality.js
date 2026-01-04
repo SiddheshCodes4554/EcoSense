@@ -122,7 +122,7 @@ export const useAirQuality = () => {
                 co: { ...POLLUTANT_CONFIG.co, value: Math.floor((aqi / 500) * 1000) },
             },
             advice,
-            sourceName: 'Simulated Eco-Network',
+            sourceName: 'Simulated Aero-Network',
             forecast,
             wind: {
                 speed: (Math.abs((seed % 20)) / 2).toFixed(1),

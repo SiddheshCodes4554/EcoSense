@@ -136,7 +136,7 @@ const App = () => {
             <Wind className="text-primary" size={28} />
           </div>
           <div>
-            <h1 className="text-3xl font-black tracking-tighter uppercase italic">EcoSense<span className="text-primary not-italic">AI</span></h1>
+            <h1 className="text-3xl font-black tracking-tighter uppercase italic">AeroSense<span className="text-primary not-italic">AI</span></h1>
             <div className="flex items-center gap-2">
               <span className="text-[10px] text-white/40 font-mono uppercase tracking-[0.2em]">Real-time Atmospheric Intelligence</span>
               {isTracking && (
@@ -317,7 +317,7 @@ const App = () => {
           </div>
         </div>
         <div className="font-mono">
-          &copy; 2026 ECOSENSE • EPA COMPLIANT DATA ENGINE
+          &copy; 2026 AEROSENSE • EPA COMPLIANT DATA ENGINE
         </div>
       </footer>
     </div>

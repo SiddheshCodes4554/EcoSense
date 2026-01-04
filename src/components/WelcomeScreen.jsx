@@ -39,7 +39,7 @@ const WelcomeScreen = () => {
 
                 <div>
                     <h1 className="text-4xl md:text-5xl font-black tracking-tighter uppercase italic text-white mb-4">
-                        EcoSense<span className="text-primary not-italic">AI</span>
+                        AeroSense<span className="text-primary not-italic">AI</span>
                     </h1>
                     <p className="text-white/60 text-lg leading-relaxed">
                         Real-time atmospheric intelligence for your environment.

@@ -1,6 +1,6 @@
-# EcoSense AI 🌿
+# AeroSense AI 🌿
 
-**EcoSense AI** is a next-generation environmental intelligence dashboard that combines real-time air quality monitoring with AI-powered health tools. It goes beyond simple data display by actively guiding users to improve their respiratory health and understanding of their local atmosphere.
+**AeroSense AI** is a next-generation environmental intelligence dashboard that combines real-time air quality monitoring with AI-powered health tools. It goes beyond simple data display by actively guiding users to improve their respiratory health and understanding of their local atmosphere.
 
 
 ## ✨ Key Features
